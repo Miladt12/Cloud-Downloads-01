@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4752",
+  "folder": "Other__DYoyD7KoHkj_20260522222647_40c930",
+  "base_name": "Other__DYoyD7KoHkj_20260522222647_40c930.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Miladt12/Cloud-Downloads-01/releases/tag/co-releases-v1-4752",
+  "files": [
+    {
+      "name": "Other__DYoyD7KoHkj_20260522222647_40c930.bin",
+      "url": "https://github.com/Miladt12/Cloud-Downloads-01/releases/download/co-releases-v1-4752/Other__DYoyD7KoHkj_20260522222647_40c930.bin",
+      "api_url": "https://api.github.com/repos/Miladt12/Cloud-Downloads-01/releases/assets/427427434",
+      "id": 427427434,
+      "size": 809889,
+      "download_count": 0
+    }
+  ]
+}
