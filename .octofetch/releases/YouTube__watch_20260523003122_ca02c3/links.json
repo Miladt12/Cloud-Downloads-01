@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3421",
+  "folder": "YouTube__watch_20260523003122_ca02c3",
+  "base_name": "Life_in_the_Dorm_Art_Cooking_Daily_Adventures_KiN1x7L5Q6U_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Miladt12/Cloud-Downloads-01/releases/tag/co-releases-v1-3421",
+  "files": [
+    {
+      "name": "Life_in_the_Dorm_Art_Cooking_Daily_Adventures_KiN1x7L5Q6U_1080p.mp4",
+      "url": "https://github.com/Miladt12/Cloud-Downloads-01/releases/download/co-releases-v1-3421/Life_in_the_Dorm_Art_Cooking_Daily_Adventures_KiN1x7L5Q6U_1080p.mp4",
+      "api_url": "https://api.github.com/repos/Miladt12/Cloud-Downloads-01/releases/assets/427513880",
+      "id": 427513880,
+      "size": 236708211,
+      "download_count": 0
+    }
+  ]
+}
